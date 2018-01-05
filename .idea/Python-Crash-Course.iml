@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/11 test code" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12 alien invasion" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.6.2 (C:\Users\slaye\AppData\Local\Programs\Python\Python36-32\python.exe)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
